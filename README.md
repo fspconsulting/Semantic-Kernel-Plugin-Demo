@@ -15,7 +15,7 @@ This repo shows a brief example on how to use the OpenAI Semantic Kernel package
 dotnet run --project AZOpenAIHackathon
 ```
 
-!(Example of the terminal)[TerminalRun.png]
+![Example of the terminal](TerminalRun.png)
 
 ### Extension
 To extend this add code in ./Plugins/LeavePlugin.cs.
