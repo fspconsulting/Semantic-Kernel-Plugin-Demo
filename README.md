@@ -6,8 +6,16 @@ This repo shows a brief example on how to use the OpenAI Semantic Kernel package
 
 ## Getting Started
 
-- Add endpoint & apiKey from Azure Open AI
+- .Net 6+
+- Add endpoint & apiKey from Azure Open AI GPT 4
 - Run the project
+
+### Build
+```bash
+dotnet run --project AZOpenAIHackathon
+```
+
+!(Example of the terminal)[TerminalRun.png]
 
 ### Extension
 To extend this add code in ./Plugins/LeavePlugin.cs.
@@ -15,3 +23,4 @@ To extend this add code in ./Plugins/LeavePlugin.cs.
 ## References
 https://learn.microsoft.com/en-us/semantic-kernel/overview/?tabs=Csharp
 https://azure.microsoft.com/en-gb/products/ai-services/openai-service/
+
