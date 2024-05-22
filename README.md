@@ -1,4 +1,4 @@
-# AZ OpenAI post-hackathon template
+# Semantic Kernel Plugin Demo
 
 This was made after 4.5 hours in FSP's first hackathon. 
 
